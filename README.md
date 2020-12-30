@@ -1,1 +1,1 @@
-# test-score-algorithms-for-budgetd-utility-maximization
+# Test score algorithms for budgeted stochastic utility maximization
